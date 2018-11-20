@@ -1,0 +1,15 @@
+html {
+    background-color: #ffcc00;
+}
+h1 {
+    color: red;
+}
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 30%;
+}
+th, td {
+    border: 1px solid black;
+    padding: 3px;
+}
